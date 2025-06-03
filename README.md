@@ -36,7 +36,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/yourusername/linkedlist"
+	"github.com/ifanwar/go-linkedlist"
 )
 
 func main() {
@@ -67,7 +67,7 @@ import (
 
 	"github.com/jmoiron/sqlx"
 	_ "github.com/lib/pq"
-	"github.com/yourusername/linkedlist"
+	"github.com/ifanwar/go-linkedlist"
 )
 
 type Product struct {
